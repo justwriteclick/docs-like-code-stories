@@ -1,12 +1,40 @@
 # docs-like-code-stories
 
-Collection of use cases for Docs Like Code Handbook
+Collection of use cases for Docs Like Code Handbook.
 
-There are great stories out there; let's make the accessible to everyone.
+There are great stories out there; let's make them accessible to everyone.
 
 The vision here is to provide the spark for more teams to think about their documentation in new ways. Read about automation, reviews, integration points, and get inspired to try some small changes yourself. 
 
-Send in a Pull Request for review, le'ts get these out into the world!
+Send in a Pull Request for review, writing in Markdown. Use any headings you want, but an outline could be:
+
+```
+
+# Use Case: <company or organization name>
+
+## What we build
+
+## Why we chose these techniqes
+
+## Audience considerations
+
+## Reviews
+
+## Publishing
+
+## Automation
+
+## Version control and workflow
+
+## Benefits
+
+## Cautionary tales
+
+## What you wish you knew
+
+```
+
+Let's get these stories out into the world!
 
 ## General questions for each use case
 
