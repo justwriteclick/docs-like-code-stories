@@ -12,7 +12,10 @@ https://github.com/pantheon-systems/documentation
 Source files: 588 These are all publicly-editable source files.
 Output files: 602
 
-## What factors led your team to choose GitHub for docs? Why and when was it chosen?
+## When did your migration to GitHub occur?
+We began the process in November of 2014 by creating a private repository for the content migration and initial development of a new static site (built with [Sculpin](https://sculpin.io)). The site went live in January 2015 and the repository went from private to public in April 2015.
+
+## What factors led your team to choose GitHub for docs? 
 
 We chose to host our documentation repository on GitHub to align ourselves with tools and workflows adopted by other teams across our organization for better collaboration. Our secondary goal was to tap into the collective intellect of our developer community by allowing public contributions. Over time, we began documenting upcoming features in the open prior to their full release which resulted in new levels of participation in the project on GitHub (feedback on product functionality and design, bug reports, etc). 
 
@@ -48,4 +51,4 @@ This workflow is not available to forks for security reasons. For details, see C
 
 ## Are there any questions you wish you had asked before using GitHub for docs? 
 
-How do the needs of open source software projects differ from the those of a documentation project? Where does GitHub fail to fulfill the needs of documentation projects and how can those gaps be filled?
+How do the needs of open source software projects differ from those of a documentation project? Where does GitHub fail to fulfill the needs of documentation projects and how can those gaps be filled?
