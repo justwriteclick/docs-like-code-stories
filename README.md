@@ -1,6 +1,6 @@
 # docs-like-code-stories
 
-Collection of use cases for Docs Like Code Handbook.
+Collection of use cases for Docs Like Code.
 
 There are great stories out there; let's make them accessible to everyone.
 
