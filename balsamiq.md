@@ -43,7 +43,7 @@ But instead of changing file formats, we leveraged the flexibility of Hugo to us
 
 Here's the code:
 
-```
+```go
 {{ if .Params.include }}
   {{ $include := .Params.include }}
   {{ if eq .Params.editorversion 3 }}
@@ -94,7 +94,7 @@ There was just one problem. Markdown. Again.
 
 Triggering the gifplayer code is as easy as adding a CSS class to an image. Like this:
 
-```
+```html
 <img class="gif" src="http://rubentd.com/img/banana.png">
 ```
 
@@ -104,7 +104,7 @@ Now, there are two parameters that you give an image in markdown: the file name,
 
 Like this:
 
-```
+```javascript
 <script>
   $(document).ready(function(){
     $("img[alt='gif']").gifplayer({ label: 'Play' });
@@ -114,7 +114,7 @@ Like this:
 
 So, now, if we write:
 
-```
+```markdown
 ![gif](http://rubentd.com/img/banana.png)
 ```
 it'll trigger the gifplayer script!
