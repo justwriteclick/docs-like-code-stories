@@ -1,6 +1,6 @@
 # Case Study - Balsamiq Docs: Static Doesn't Have to Be a Limitation
 
-Leon Barnard, Designer and Writer (and Developer-in-training) at Balsamiq, describes how the second version of the Balsamiq Docs static site went beyond purely functional to do things the team didn't think Markdown and static sites could do.
+Leon Barnard, Designer and Writer (and Developer-in-training) at [Balsamiq](https://balsamiq.com/), describes how the second version of the Balsamiq Docs static site went beyond purely functional to do things the team didn't think Markdown and static sites could do.
 
 
 ## Background
@@ -117,7 +117,7 @@ So, now, if we write:
 ```markdown
 ![gif](http://rubentd.com/img/banana.png)
 ```
-it trigger the gifplayer script!
+it triggers the gifplayer script!
 
 <img src="http://rubentd.com/img/banana.gif" width=100 alt="party">
 
