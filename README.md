@@ -14,7 +14,7 @@ Send in a Pull Request for review, writing in Markdown. Use any headings you wan
 
 ## What we build
 
-## Why we chose these techniqes
+## Why we chose these techniques
 
 ## Audience considerations
 
